@@ -2,7 +2,7 @@
  * @file Buffer.h
  * @brief Header file for the Buffer class.
  * @author Team 3
- * @date October 1, 2023
+ * @date October 1, 2024
  * @version 1.0
  */
 
