@@ -14,10 +14,10 @@
 
 void record::read(istream& infile)
 {
-    infile >> zip>>city>>state>> county>> lat>> longi;
+    infile >> zip >> city >> state >> county  >> lat>> longi;
 }
 
 void record::write(ostream& outfile)
 {
-    outfile<< zip << " " << city << " " << state << " " << county << " " << lat << " " << longi;
+    outfile<< zip << " " << city << " " << state << " " << county << " " << lat << " " << longi << endl;
 }

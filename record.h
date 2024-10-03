@@ -18,6 +18,8 @@ using namespace std;
 class record{
 
     private:
+
+        //Data values used in a record
         int zip;
         string city, state, county;
         float lat, longi;
@@ -93,8 +95,25 @@ class record{
          * 
          */
         void write(ostream&);
+
+        /**
+         * @brief Overloads the "<" operator based on the latitude value
+         * 
+         * @param r 
+         * @return true 
+         * @return false 
+         */
+        bool operator<(const record& r) const{
+            return lat < r.lat;
+            }
+
+        
+};
+
+
         
 
-};
+
+        
 
 #endif
