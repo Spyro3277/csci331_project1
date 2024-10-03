@@ -1,8 +1,8 @@
 /**
  * @file StateDatabase.cpp
  * @brief Header file for the StateDatabase class.
- * @author Team 5
- * @date September 23, 2023
+ * @author Team 3
+ 
  * @version 1.0
  */
 
