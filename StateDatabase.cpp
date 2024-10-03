@@ -1,7 +1,7 @@
 /**
  * @file StateDatabase.cpp
  * @brief Implementation file for the StateDatabase class.
- * @author Team 5
+ * @author Team 3
  * @date Septermber 28,2024
  * @version 1.0
  */
