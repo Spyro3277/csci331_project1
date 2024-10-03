@@ -1,7 +1,7 @@
 /**
  * @file Buffer.cpp
  * @brief Implementation file for the Buffer class.
- * @author Team 5
+ * @author Team 3
  * @date Septemper 28 , 2024
  * @version 1.0
  */
